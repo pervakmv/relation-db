@@ -1,6 +1,4 @@
-package lesson2;
-
-import lesson3.Order;
+package lesson3;
 
 import java.util.Date;
 
